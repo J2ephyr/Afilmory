@@ -5,7 +5,6 @@ import type { NextRequest } from 'next/server'
 import { photoLoader } from '~/lib/photo-loader'
 
 import geistFont from './Geist-Medium.ttf'
-import Sans from './PingFangSC.ttf'
 
 export const GET = async (
   request: NextRequest,
@@ -837,12 +836,6 @@ export const GET = async (
           {
             name: 'Geist',
             data: geistFont,
-            style: 'normal',
-            weight: 400,
-          },
-          {
-            name: 'SF Pro Display',
-            data: Sans,
             style: 'normal',
             weight: 400,
           },
