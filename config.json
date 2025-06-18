@@ -1,0 +1,24 @@
+{
+  "name": "Innei's Afilmory",
+  "title": "Innei's Afilmory",
+  "description": "Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.",
+  "url": "https://afilmory.innei.in/",
+  "accentColor": "#007bff",
+  "author": {
+    "name": "Innei",
+    "url": "https://innei.in/",
+    "avatar": "https://cdn.jsdelivr.net/gh/Innei/static@master/avatar.png"
+  },
+  "social": {
+    "twitter": "@__oQuery",
+    "github": "Innei"
+  },
+  "feed": {
+    "folo": {
+      "challenge": {
+        "feedId": "155982289762921472",
+        "userId": "41312624216137728"
+      }
+    }
+  }
+}
